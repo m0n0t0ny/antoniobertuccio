@@ -16,6 +16,10 @@ header {
     height: 4rem;
 }
 
-.main {}
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 .hero {}
